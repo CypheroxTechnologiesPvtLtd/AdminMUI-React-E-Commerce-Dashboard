@@ -6,7 +6,7 @@ import {Link}from 'react-router-dom'
 import user_image from '../../assets/images/user.jpg'
 import user_menu from '../../assets/JsonData/user_menus.json'
 const curr_user = {
-    display_name: 'maulik dudhat',
+    display_name: 'John Doe',
     image: user_image
 }
 
