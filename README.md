@@ -1,4 +1,4 @@
-# [AdminMUI - MUI Dashboard ](https://github.com/CypheroxTechnologiesPvtLtd/React-E-Commerce-Dashboard)
+# [AdminMUI - React E-Commerce Dashboard](https://github.com/CypheroxTechnologiesPvtLtd/React-E-Commerce-Dashboard)
 
 [![mui version](https://img.shields.io/badge/MUI-5.2.7-blue)](https://mui.com/)
 [![chartjs version](https://img.shields.io/badge/chartjs-3.7.0-yellowgreen)](https://www.chartjs.org/)
@@ -29,7 +29,7 @@ http://localhost:3000
 
 ## Screenshort
 
-
+![AdminMUI React E-Commerce Dashboard](https://raw.githubusercontent.com/CypheroxTechnologiesPvtLtd/React-E-Commerce-Dashboard/master/AdminMUI-React-E-Commerce-Dashboard.png)
 
 ## Connect with us
 
